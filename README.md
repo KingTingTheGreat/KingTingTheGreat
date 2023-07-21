@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Jeffrey</h1>
-<h3 align="center">An adaptable and passionate Computer Science and Philosophy student at Boston University</h3>
+<h3 align="center">A passionate and open-minded Computer Science and Philosophy student at Boston University</h3>
 
 - 🔭 I’m currently working on [Spotify-Message-Ranking](https://github.com/KingTingTheGreat/Spotify-Message-Ranking)
 
