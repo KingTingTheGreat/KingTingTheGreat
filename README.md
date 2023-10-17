@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spotify-Message-Ranking](https://github.com/KingTingTheGreat/Spotify-Message-Ranking)
 
-- 🌱 I’m currently learning **Svelte and Dart/Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingTingTheGreat?tab=repositories](https://github.com/KingTingTheGreat?tab=repositories)
 
