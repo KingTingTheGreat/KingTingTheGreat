@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Jeffrey</h1>
 <h3 align="center">A passionate and open-minded Computer Science and Philosophy student at Boston University</h3>
 
-- 🔭 I’m currently working on [Spotify-Message-Ranking](https://github.com/KingTingTheGreat/Spotify-Message-Ranking)
+- 🔭 I’m currently working on [NerdNest3D](https://github.com/KingTingTheGreat/nerdnest3d)
 
 - 🌱 I’m currently learning **React**
 
