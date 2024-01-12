@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jting@bu.edu**
 
-- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1bEL92l2263JzSyZbSEPvdMwFDnojITQ9i4vAD_K3orc/edit?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://kingtingthegreat.github.io/Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
