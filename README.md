@@ -1,9 +1,9 @@
 <h1 align="center">Hello! My name is Jeffrey</h1>
 <h3 align="center">A passionate and open-minded Computer Science and Philosophy student at Boston University</h3>
 
-- 🔭 I’m currently working on [NerdNest3D](https://github.com/KingTingTheGreat/nerdnest3d)
+- 🔭 I’m currently working on [Indiefy](https://github.com/KingTingTheGreat/indie-score)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingTingTheGreat?tab=repositories](https://github.com/KingTingTheGreat?tab=repositories)
 
