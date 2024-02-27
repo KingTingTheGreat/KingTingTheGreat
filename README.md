@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Indiefy](https://github.com/KingTingTheGreat/indie-score)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Go/Echo + Templ + HTMX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingTingTheGreat?tab=repositories](https://github.com/KingTingTheGreat?tab=repositories)
 
