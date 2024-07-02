@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Jeffrey</h1>
 <h3 align="center">A passionate and open-minded Computer Science and Philosophy student at Boston University</h3>
 
-- 🔭 I’m currently working on [Indiefy](https://github.com/KingTingTheGreat/indie-score)
+- 🔭 I’m currently working on [Trivia App](https://github.com/KingTingTheGreat/trivia-app)
 
 - 🌱 I’m currently learning **Go/Echo + Templ + HTMX**
 
