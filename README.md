@@ -1,9 +1,9 @@
 <h1 align="center">Hello! My name is Jeffrey</h1>
-<h3 align="center">A passionate and open-minded Computer Science and Philosophy student at Boston University</h3>
+<h3 align="center">I am a passionate and open-minded Computer Science and Philosophy student at Boston University</h3>
 
 - 🔭 I’m currently working on [Trivia App](https://github.com/KingTingTheGreat/trivia-app)
 
-- 🌱 I’m currently learning **Go/Echo + Templ + HTMX**
+- 🌱 I’m currently learning **Go + Templ + HTMX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingTingTheGreat?tab=repositories](https://github.com/KingTingTheGreat?tab=repositories)
 
